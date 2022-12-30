@@ -1,3 +1,11 @@
+#Reto React
+#Integrantes del Equipo:
+Graciela Sánchez López
+#Descripción del Proyecto
+#Guía de Instalación y funcionamiento
+#Tecnologías utilizadas
+#Preguntas frecuentes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
